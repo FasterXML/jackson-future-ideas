@@ -13,8 +13,8 @@ This means:
     * Deciding on things where we have alternative choices
     * Tracking implementation of thing we want implemented
 
-Note that we do NOT track actual progres using issues here (issues are more for general future ideas), but instead use [Discussions](../../discussions).
+Note that we do NOT track actual progress using issues here (issues are more for general future ideas), use [Discussions](../../discussions) instead.
 
-Specifically, the ultimate starting point is [Path to Jackson 3.0.0](../../discussions/72).
+Specifically the ultimate starting point is [Path to Jackson 3.0.0](../../discussions/72).
 If unsure where to start, go there.
 
