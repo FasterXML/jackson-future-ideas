@@ -5,7 +5,7 @@ This repository exists for sole purpose of having an issue tracker that:
 * IS for proposing new modules, related new development, that does not belong under any specific component
 * IS NOT for bug reports. Of anything.
 
-But more specifically, right now -- late 2024 -- we have one main goal: get Jackson 3.0.0 ready.
+But more specifically, right now -- early 2025 -- we have one main goal: get Jackson 3.0.0 ready.
 This means:
 
 * Working towards the First Release Candidate: 3.0.0-SNAPSHOT
@@ -17,4 +17,8 @@ Note that we do NOT track actual progress using issues here (issues are more for
 
 Specifically the ultimate starting point is [Path to Jackson 3.0.0](../../discussions/72).
 If unsure where to start, go there.
+
+Other things of interest are:
+
+* [JSTEPs](../../wiki/JSTEP)
 
